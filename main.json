@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Aster Medcity",
+      "pat_cnt": 2000,
+      "location": "Kochi"
+    },
+    {
+      "name": "Sunrise Hospital",
+      "pat_cnt": 1500,
+      "location": "Eranakulam"
+    },
+    {
+      "name": "KIMS",
+      "pat_cnt": 1500,
+      "location": "Trivandrum"
+    },
+    {
+      "name": "Rajagiri Hospital",
+      "pat_cnt": 1000,
+      "location": "Aluva"
+    },
+    {
+      "name": "Aster Mims",
+      "pat_cnt": 1000,
+      "location": "Kozhikode"
+    }
+  ]
